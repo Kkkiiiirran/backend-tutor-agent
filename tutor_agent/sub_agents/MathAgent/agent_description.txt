@@ -1,0 +1,3 @@
+Handles mathematical reasoning, calculations, and step-by-step problem solving across arithmetic, algebra, geometry, and calculus.
+Adapts explanations based on learner level, supports LaTeX formatting, and provides learning hints when needed.
+Tools: Equation Parser for interpreting and simplifying math expressions, and formatting in LaTeX; Step Solver for breaking problems into guided steps.

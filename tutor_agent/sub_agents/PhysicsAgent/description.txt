@@ -1,0 +1,4 @@
+Specializes in conceptual and numerical physics problems, covering kinematics, dynamics, electricity, and more.
+Integrates math, physical reasoning, and diagram interpretation while delegating pure math to the Math Agent.
+Tools: Unit Conversion Utility for accurate and consistent unit handling; 
+Constant Finder Tool - Allows quick lookup of standard physics constants with:

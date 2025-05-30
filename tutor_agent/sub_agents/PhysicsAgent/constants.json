@@ -1,0 +1,62 @@
+{
+  "speed_of_light": {
+    "symbol": "c",
+    "value": 299792458,
+    "unit": "m/s",
+    "description": "Speed of light in vacuum"
+  },
+  "gravitational_constant": {
+    "symbol": "G",
+    "value": 6.67430e-11,
+    "unit": "m^3 kg^-1 s^-2",
+    "description": "Universal gravitational constant"
+  },
+  "planck_constant": {
+    "symbol": "h",
+    "value": 6.62607015e-34,
+    "unit": "J·s",
+    "description": "Planck's constant"
+  },
+  "elementary_charge": {
+    "symbol": "e",
+    "value": 1.602176634e-19,
+    "unit": "C",
+    "description": "Elementary charge"
+  },
+  "avogadro_number": {
+    "symbol": "N_A",
+    "value": 6.02214076e23,
+    "unit": "mol^-1",
+    "description": "Avogadro's number"
+  },
+  "boltzmann_constant": {
+    "symbol": "k",
+    "value": 1.380649e-23,
+    "unit": "J/K",
+    "description": "Boltzmann constant"
+  },
+  "gas_constant": {
+    "symbol": "R",
+    "value": 8.314462618,
+    "unit": "J/(mol·K)",
+    "description": "Ideal gas constant"
+  },
+  "electron_mass": {
+    "symbol": "m_e",
+    "value": 9.10938356e-31,
+    "unit": "kg",
+    "description": "Mass of an electron"
+  },
+  "proton_mass": {
+    "symbol": "m_p",
+    "value": 1.67262192369e-27,
+    "unit": "kg",
+    "description": "Mass of a proton"
+  },
+  "neutron_mass": {
+    "symbol": "m_n",
+    "value": 1.67492749804e-27,
+    "unit": "kg",
+    "description": "Mass of a neutron"
+  }
+}
