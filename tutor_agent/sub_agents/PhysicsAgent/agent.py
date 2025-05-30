@@ -5,6 +5,7 @@ from .helper import convert_units
 from .helper2 import find_constant
 
 import os
+GOOGLE_API_KEY= os.getenv("GOOGLE_API_KEY")
 
 # Get the absolute path to the current file's directory
 current_dir = os.path.dirname(os.path.abspath(__file__))

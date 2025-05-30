@@ -12,6 +12,7 @@ with open(role_path, 'r', encoding="utf-8") as file:
 
 with open(role_path2, 'r', encoding="utf-8") as file:
     DESCRIPTION = file.read()
+GOOGLE_API_KEY= os.getenv("GOOGLE_API_KEY")
 
 MathAgent = Agent(
     name = "MathAgent",

@@ -4,6 +4,7 @@ from .sub_agents.MathAgent.agent import MathAgent
 from google.adk.agents import Agent
 
 import os
+GOOGLE_API_KEY= os.getenv("GOOGLE_API_KEY")
 
 # extract tutor_role instructions
 current_dir = os.path.dirname(os.path.abspath(__file__))

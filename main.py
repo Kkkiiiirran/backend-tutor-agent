@@ -13,6 +13,8 @@ load_dotenv()
 
 app = FastAPI()
 
+GOOGLE_API_KEY= os.getenv("GOOGLE_API_KEY")
+
 # Allow CORS only from your deployed frontend
 app.add_middleware(
     CORSMiddleware,
