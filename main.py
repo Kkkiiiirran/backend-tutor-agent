@@ -16,7 +16,7 @@ app = FastAPI()
 # Allow CORS only from your deployed frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[os.getenv("FRONTEND_URL", "https://kkkiiiirran.github.io")],
+    allow_origins=["https://kkkiiiirran.github.io"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
